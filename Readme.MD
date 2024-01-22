@@ -9,13 +9,13 @@ Introducing the Cover Letter Generator, a cutting-edge tool crafted to help you 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codemaker2015/gemini-api-experiments.git
+   git clone https://github.com/yasykurluthfi14/GeminiAI-API.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd gemini-api-experiments
+   cd GeminiAI-API
    ```
 
 3. Prerequisites: 
